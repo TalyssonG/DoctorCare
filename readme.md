@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="https://raw.githubusercontent.com/phaelslima/doctorcare/af5058ef790a63eab2312b9bbd526d1234bf8b75/.github/preview.png" width="100%">
 </p>
 
 ## 💻 Projeto
